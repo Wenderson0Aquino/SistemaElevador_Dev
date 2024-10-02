@@ -1,0 +1,15 @@
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\bin\Debug\SistemaElevador.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaElevador_Dev\SistemaElevador\obj\Debug\SistemaElevador.pdb
